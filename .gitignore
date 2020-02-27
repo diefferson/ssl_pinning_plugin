@@ -34,3 +34,7 @@ Icon?
 .tags*
 
 /Flutter/Generated.xcconfig
+.dart_tool/package_config.json
+.packages
+example/.flutter-plugins-dependencies
+example/ios/Flutter/flutter_export_environment.sh
